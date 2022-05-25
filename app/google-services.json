@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569505857761",
+    "project_id": "pink-note-af1b3",
+    "storage_bucket": "pink-note-af1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569505857761:android:9dc38ea55808bfa39177a0",
+        "android_client_info": {
+          "package_name": "ru.ggproject.pinknote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569505857761-c5ublsisd8f7lvb2tgq9vd6d2ps59u1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAli7cVoy3UYBpItZ63z-LTwm44UUKxo9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569505857761-c5ublsisd8f7lvb2tgq9vd6d2ps59u1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
